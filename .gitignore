@@ -1,0 +1,6 @@
+# Saída de compilação do Maven
+target/
+
+# Arquivos do sistema
+Thumbs.db
+desktop.ini
